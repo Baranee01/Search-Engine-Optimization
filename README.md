@@ -47,7 +47,7 @@ The values of class attribute 'use' are converted into NO : 0 and YES : 1 by lab
 
 ![image](https://user-images.githubusercontent.com/80042740/117950255-a00de780-b330-11eb-9d56-a007135127fa.png)
 
-Here we can find that there are more keyword acceptance (357) than keyword rejections (143). The dataset shows the interest of the person to include as many keywords as possible which has a decent opportunity.
+Here we can find that there are more keyword acceptance (325) than keyword rejections (175). The dataset shows the interest of the person to include as many keywords as possible which has a decent opportunity.
 
 ##
 ### EXPLORATORY DATA ANALYSIS
