@@ -50,6 +50,8 @@ The values of class attribute 'use' are converted into NO : 0 and YES : 1 by lab
 Here we can find that there are more keyword acceptance (357) than keyword rejections (143). The dataset shows the interest of the person to include as many keywords as possible which has a decent opportunity.
 
 ##
+### EXPLORATORY DATA ANALYSIS
+
 ### RELATIONSHIP BETWEEN BSR_AVG AND OPPURTUNITY_SCORE
 ![image](https://user-images.githubusercontent.com/80042740/117950481-d9deee00-b330-11eb-9d58-4f12efe7fa91.png)
 
