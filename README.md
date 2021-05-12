@@ -8,6 +8,10 @@ Packages Used : numpy, pandas, seaborn, matplotlib, sklearn, statsmodels
 ### ABOUT THE DATASET
 The dataset used for analysis is the keywords selection data from the SEO keywords repository called E-Grow. In that dataset there are 500 keywords related to shoes. They include 21 attributes, 19 are numeric and “keyword” attribute alone is a string. This also includes a class attribute.
 
+Source : EGrow Keywords Repository
+
+Link : https://in.egrow.io/member/keyword-niche-tool
+
 ##
 ### SAMPLE DATASET
 ![image](https://user-images.githubusercontent.com/80042740/117948020-5fad6a00-b32e-11eb-9017-00afd89d8ed7.png)
