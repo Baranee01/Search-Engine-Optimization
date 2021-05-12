@@ -32,7 +32,6 @@ Link : https://in.egrow.io/member/keyword-niche-tool
 ### DATA PREPROCESSING
 All the null values '?' are converted to Nan.
 
-##
 ### CORRELATION HEATMAP OF UNPROCESSED DATA
 ![image](https://user-images.githubusercontent.com/80042740/117949684-03e3e080-b330-11eb-8b7b-cb72250a3ed3.png)
 
