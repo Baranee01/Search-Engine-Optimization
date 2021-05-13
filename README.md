@@ -27,7 +27,7 @@ or
 ipython notebook PROJECTSEO.ipynb
 ```
 
-This will open the Jupyter Notebook software and project file in your web browser. You can also use Google Colab for easy access as it already has all the packages installed.
+This will open the Jupyter Notebook software and project file in your web browser. You can also use [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) for easy access as it already has all the packages installed.
 
 ##
 ### ABOUT THE DATASET
