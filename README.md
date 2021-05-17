@@ -17,7 +17,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 ##
 ### EXECUTION
 
-In a terminal or command window, navigate to the top-level project directory `SearchEngineOptimization/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Search-Engine-Optimization/` (that contains this README) and run one of the following commands:
 
 ```bash
 jupyter notebook PROJECTSEO.ipynb
